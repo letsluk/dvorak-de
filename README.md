@@ -24,7 +24,7 @@ run `mkinitcpio -p linux`.
 
 After reboot dvorak will be the keyboard layout, for console.
 
-<div style="background-color:red">
+<body style="background-color:red">
 Careful: This will also change the keyboard-layout for the encryption password.
 Make sure, you will be able to enter it in dvorak. Otherwise you will lock yourself out of your machine.
-  </div>
+  </body>
